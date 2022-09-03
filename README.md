@@ -1,2 +1,3 @@
 # tech-docs
-To document technical topics
+
+This repo is used to document technical topics.
